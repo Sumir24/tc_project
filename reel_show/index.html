@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Reels Mini-Courses Prototype</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+  <div id="app">
+    <header class="topbar">
+      <h1>Tech Mini-Courses — Reels</h1>
+      <select id="courseSelect"></select>
+    </header>
+
+    <main class="player-area">
+      <div id="reel" class="reel" tabindex="0" aria-label="Reels player">
+        <!-- iframe injected here -->
+        <div class="overlay">
+          <div id="creator" class="creator">Creator</div>
+          <div id="title" class="title">Title</div>
+          <div id="tags" class="tags">#tags</div>
+        </div>
+        <div id="pageIndicator" class="pageIndicator">0 / 0</div>
+      </div>
+      <div class="hint">Use ↑ / ↓ keys or swipe to navigate</div>
+    </main>
+
+    <footer class="footer">
+      <button id="prevBtn">Prev</button>
+      <button id="nextBtn">Next</button>
+    </footer>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,471 @@
+{
+  "courses": [
+    {
+      "id": "cpp-stl-60s",
+      "title": "C++ STL in 60 Seconds",
+      "description": "10 Shorts covering STL basics and tricks",
+      "lessons": [
+        {
+          "id": "s1",
+          "title": "What is STL?",
+          "ytId": "D1IMqLx63-c",
+          "creator": "Sample"
+        },
+        {
+          "id": "s2",
+          "title": "Vector in 20 seconds",
+          "ytId": "eYAS4M-3YYU",
+          "creator": "Sample"
+        },
+        {
+          "id": "s3",
+          "title": "Set vs Unordered Set",
+          "ytId": "D_7dZS3xgko",
+          "creator": "Sample"
+        },
+        {
+          "id": "s4",
+          "title": "Map vs Unordered Map",
+          "ytId": "Vepf4Eigvjs",
+          "creator": "Sample"
+        },
+        {
+          "id": "s5",
+          "title": "Priority Queue (Max/Min)",
+          "ytId": "FlquDbza63w",
+          "creator": "Sample"
+        },
+        {
+          "id": "s6",
+          "title": "Sorting with Custom Comparator",
+          "ytId": "MufyYpp_um8",
+          "creator": "Sample"
+        },
+        {
+          "id": "s7",
+          "title": "Stack & Queue Mini Demo",
+          "ytId": "rpHN0kqMrag",
+          "creator": "Sample"
+        },
+        {
+          "id": "s8",
+          "title": "Lower Bound & Upper Bound",
+          "ytId": "D_7dZS3xgko",
+          "creator": "Sample"
+        },
+        {
+          "id": "s9",
+          "title": "Best STL Tricks for CP",
+          "ytId": "XX98a3nMcks",
+          "creator": "Sample"
+        },
+        {
+          "id": "s10",
+          "title": "STL Mistakes Beginners Make",
+          "ytId": "6Pwo2igpfIs",
+          "creator": "Sample"
+        }
+      ]
+    },
+    {
+      "id": "ml-1min",
+      "title": "Machine Learning in 1 Minute",
+      "description": "Quick intro to ML concepts",
+      "lessons": [
+        {
+          "id": "ml1",
+          "title": "What is Machine Learning?",
+          "ytId": "3OqF4qLgI_8",
+          "creator": "AI Explained"
+        },
+        {
+          "id": "ml2",
+          "title": "Supervised vs Unsupervised",
+          "ytId": "sJ0n8d_Eov0",
+          "creator": "Simple AI"
+        },
+        {
+          "id": "ml3",
+          "title": "Train/Test Split",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ml4",
+          "title": "Linear Regression",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ml5",
+          "title": "Logistic Regression",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ml6",
+          "title": "Decision Trees",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ml7",
+          "title": "Random Forests",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ml8",
+          "title": "Neural Networks",
+          "ytId": "64qXq8AG_9M",
+          "creator": "Mel Robbins"
+        },
+        {
+          "id": "ml9",
+          "title": "Overfitting",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ml10",
+          "title": "Bias vs Variance",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ml11",
+          "title": "K-Means Clustering",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ml12",
+          "title": "Future of ML",
+          "ytId": "z0j8_E-L7g4",
+          "creator": "PantsBear"
+        }
+      ]
+    },
+    {
+      "id": "git-beginners",
+      "title": "Git & GitHub for Beginners",
+      "description": "Master version control in shorts",
+      "lessons": [
+        {
+          "id": "git1",
+          "title": "What is Git?",
+          "ytId": "d_x5D2qjJ2Q",
+          "creator": "Tech Short"
+        },
+        {
+          "id": "git2",
+          "title": "Git vs GitHub",
+          "ytId": "4O2Bw0uN66Q",
+          "creator": "Tech Short"
+        },
+        {
+          "id": "git3",
+          "title": "Git Init & Clone",
+          "ytId": "i_m0p9Q_jFw",
+          "creator": "Tutorialspoint"
+        },
+        {
+          "id": "git4",
+          "title": "Git Add & Commit",
+          "ytId": "3fD6Z5X2oBw",
+          "creator": "DevTips"
+        },
+        {
+          "id": "git5",
+          "title": "Git Push",
+          "ytId": "VwQkI2M0L_8",
+          "creator": "Funny Dev"
+        },
+        {
+          "id": "git6",
+          "title": "Pull Requests",
+          "ytId": "76UXyiPJQwI",
+          "creator": "Leonardo Montini"
+        },
+        {
+          "id": "git7",
+          "title": "Merge Conflicts",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "git8",
+          "title": "Git Best Practices",
+          "ytId": "yYmC-37pP_0",
+          "creator": "Code Pro"
+        }
+      ]
+    },
+    {
+      "id": "frontend-60s",
+      "title": "Frontend Basics in 60 Seconds",
+      "description": "HTML, CSS, JS essentials",
+      "lessons": [
+        {
+          "id": "fe1",
+          "title": "How the Web Works",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fe2",
+          "title": "HTML Basics",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fe3",
+          "title": "CSS Basics",
+          "ytId": "3Gj-O5a1j0s",
+          "creator": "DevTools99"
+        },
+        {
+          "id": "fe4",
+          "title": "CSS Flexbox",
+          "ytId": "3fM4w5sJc3o",
+          "creator": "LataComputerLab"
+        },
+        {
+          "id": "fe5",
+          "title": "CSS Grid",
+          "ytId": "x7tLPhnA06w",
+          "creator": "Tech Short"
+        },
+        {
+          "id": "fe6",
+          "title": "JS Variables",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fe7",
+          "title": "DOM Manipulation",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fe8",
+          "title": "Event Listeners",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fe9",
+          "title": "Fetch API",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fe10",
+          "title": "Responsive Design",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        }
+      ]
+    },
+    {
+      "id": "ai-beginners",
+      "title": "AI for Beginners",
+      "description": "Understand AI concepts quickly",
+      "lessons": [
+        {
+          "id": "ai1",
+          "title": "What is AI?",
+          "ytId": "sJ0n8d_Eov0",
+          "creator": "Simple AI"
+        },
+        {
+          "id": "ai2",
+          "title": "AI vs ML vs DL",
+          "ytId": "3OqF4qLgI_8",
+          "creator": "AI Explained"
+        },
+        {
+          "id": "ai3",
+          "title": "Neural Networks",
+          "ytId": "64qXq8AG_9M",
+          "creator": "Mel Robbins"
+        },
+        {
+          "id": "ai4",
+          "title": "Computer Vision",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ai5",
+          "title": "NLP Explained",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ai6",
+          "title": "Generative AI",
+          "ytId": "z0j8_E-L7g4",
+          "creator": "PantsBear"
+        },
+        {
+          "id": "ai7",
+          "title": "Ethics in AI",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ai8",
+          "title": "Turing Test",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ai9",
+          "title": "History of AI",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "ai10",
+          "title": "Future of AI",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        }
+      ]
+    },
+    {
+      "id": "fullstack-shorts",
+      "title": "Build a Full-Stack App (Shorts Only)",
+      "description": "Step-by-step full stack guide",
+      "lessons": [
+        {
+          "id": "fs1",
+          "title": "Project Setup",
+          "ytId": "n3rF9d1t1l4",
+          "creator": "Tech Short"
+        },
+        {
+          "id": "fs2",
+          "title": "Backend API",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs3",
+          "title": "Database Connection",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs4",
+          "title": "User Model",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs5",
+          "title": "Auth Routes",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs6",
+          "title": "Frontend Setup",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs7",
+          "title": "React Components",
+          "ytId": "pL0f20dJcTw",
+          "creator": "React Shorts"
+        },
+        {
+          "id": "fs8",
+          "title": "State Management",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs9",
+          "title": "Fetching Data",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs10",
+          "title": "Login Form",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs11",
+          "title": "Register Form",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs12",
+          "title": "Protected Routes",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs13",
+          "title": "Deployment",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs14",
+          "title": "CI/CD",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        },
+        {
+          "id": "fs15",
+          "title": "Final Demo",
+          "ytId": "",
+          "creator": "TBD",
+          "note": "Short not found"
+        }
+      ]
+    }
+  ]
+}

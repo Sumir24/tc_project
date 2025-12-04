@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import LandingPage from "./pages/landing_page";
+import LearnAIPlatform from "./pages/trail";
+import CoursePage from "./pages/course_page";
+import ProfilePage from "./pages/profile";
+import ExplorePage from "./pages/explore";
+import ReelPage from "./pages/reel_page";
+
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="App">
+        <Routes>
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/trail" element={<LearnAIPlatform />} />
+          <Route path="/explore" element={<ExplorePage />} />
+          <Route path="/courses" element={<CoursePage />} />
+          <Route path="/profile" element={<ProfilePage />} />
+          <Route path="/reel" element={<ReelPage />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 

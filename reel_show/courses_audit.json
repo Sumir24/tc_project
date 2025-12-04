@@ -1,0 +1,172 @@
+[
+    {
+        "courseId": "cpp-stl-60s",
+        "lessonId": "s1",
+        "ytId": "D1IMqLx63-c",
+        "title": "What is STL?",
+        "channel": "Sample",
+        "durationSec": null,
+        "url": "https://www.youtube.com/watch?v=D1IMqLx63-c",
+        "reason": "Existing ID"
+    },
+    {
+        "courseId": "ml-1min",
+        "lessonId": "ml1",
+        "ytId": "3OqF4qLgI_8",
+        "title": "AI Explained in 60 Seconds",
+        "channel": "AI Explained",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/shorts/3OqF4qLgI_8",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "ml-1min",
+        "lessonId": "ml2",
+        "ytId": "sJ0n8d_Eov0",
+        "title": "What is AI? Simple Explanation",
+        "channel": "Simple AI",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=sJ0n8d_Eov0",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "ml-1min",
+        "lessonId": "ml8",
+        "ytId": "64qXq8AG_9M",
+        "title": "What is artificial intelligence in simple words?",
+        "channel": "Mel Robbins",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=64qXq8AG_9M",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "ml-1min",
+        "lessonId": "ml12",
+        "ytId": "z0j8_E-L7g4",
+        "title": "What exactly is AI?",
+        "channel": "PantsBear",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/shorts/z0j8_E-L7g4",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "git-beginners",
+        "lessonId": "git1",
+        "ytId": "d_x5D2qjJ2Q",
+        "title": "What is a Git Commit?",
+        "channel": "Tech Short",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=d_x5D2qjJ2Q",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "git-beginners",
+        "lessonId": "git2",
+        "ytId": "4O2Bw0uN66Q",
+        "title": "Git Vs GitHub⚡️ | All you need to know !!",
+        "channel": "Tech Short",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=4O2Bw0uN66Q",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "git-beginners",
+        "lessonId": "git3",
+        "ytId": "i_m0p9Q_jFw",
+        "title": "Git Init Command",
+        "channel": "Tutorialspoint",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=i_m0p9Q_jFw",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "git-beginners",
+        "lessonId": "git4",
+        "ytId": "3fD6Z5X2oBw",
+        "title": "How to do Your first Git commit",
+        "channel": "DevTips",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/shorts/3fD6Z5X2oBw",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "git-beginners",
+        "lessonId": "git5",
+        "ytId": "VwQkI2M0L_8",
+        "title": "In Case of Fire: git commit, git push",
+        "channel": "Funny Dev",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=VwQkI2M0L_8",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "git-beginners",
+        "lessonId": "git6",
+        "ytId": "76UXyiPJQwI",
+        "title": "How to create your First Pull Request",
+        "channel": "Leonardo Montini",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=76UXyiPJQwI",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "git-beginners",
+        "lessonId": "git8",
+        "ytId": "yYmC-37pP_0",
+        "title": "Best practice git commit",
+        "channel": "Code Pro",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=yYmC-37pP_0",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "frontend-60s",
+        "lessonId": "fe3",
+        "ytId": "3Gj-O5a1j0s",
+        "title": "CSS Basics in 60 Seconds",
+        "channel": "DevTools99",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/shorts/3Gj-O5a1j0s",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "frontend-60s",
+        "lessonId": "fe4",
+        "ytId": "3fM4w5sJc3o",
+        "title": "CSS Flexbox: The Secret Behind Perfect Layouts!",
+        "channel": "LataComputerLab",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/shorts/3fM4w5sJc3o",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "frontend-60s",
+        "lessonId": "fe5",
+        "ytId": "x7tLPhnA06w",
+        "title": "CSS Grid Template Tutorial",
+        "channel": "Tech Short",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/watch?v=x7tLPhnA06w",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "fullstack-shorts",
+        "lessonId": "fs1",
+        "ytId": "n3rF9d1t1l4",
+        "title": "Ready to become a full-stack web developer?",
+        "channel": "Tech Short",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/shorts/n3rF9d1t1l4",
+        "reason": "Found via search"
+    },
+    {
+        "courseId": "fullstack-shorts",
+        "lessonId": "fs7",
+        "ytId": "pL0f20dJcTw",
+        "title": "What is component in react",
+        "channel": "React Shorts",
+        "durationSec": 60,
+        "url": "https://www.youtube.com/shorts/pL0f20dJcTw",
+        "reason": "Found via search"
+    }
+]
